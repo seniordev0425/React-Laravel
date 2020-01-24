@@ -1,0 +1,7 @@
+[04-Nov-2019 20:20:53 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Http\Controllers\front\DetailsController::index() in /home/qvgh4n0t1wdd/public_html/laravel/app/Http/Controllers/front/DetailsController.php on line 22
+[04-Nov-2019 20:20:58 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Http\Controllers\front\DetailsController::index() in /home/qvgh4n0t1wdd/public_html/laravel/app/Http/Controllers/front/DetailsController.php on line 22
+[20-Dec-2019 15:38:54 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '?' in /home/gbauktio/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[20-Dec-2019 15:39:00 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '?' in /home/gbauktio/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[20-Dec-2019 15:39:02 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '?' in /home/gbauktio/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[20-Dec-2019 15:39:10 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '?' in /home/gbauktio/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[20-Dec-2019 15:39:11 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '?' in /home/gbauktio/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500

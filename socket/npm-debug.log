@@ -1,0 +1,113 @@
+1100 warn app@1.0.0 No repository field.
+1101 verbose If you need help, you may report this error at:
+1101 verbose     <https://github.com/npm/npm/issues>
+1102 warn optional SKIPPING OPTIONAL DEPENDENCY: bufferutil@1.2.1 (node_modules/bufferutil):
+1103 warn optional SKIPPING OPTIONAL DEPENDENCY: bufferutil@1.2.1 install: `node-gyp rebuild`
+1103 warn optional SKIPPING OPTIONAL DEPENDENCY: spawn sh EAGAIN
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY:
+1104 verbose optional Failed at the bufferutil@1.2.1 install script 'node-gyp rebuild'.
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY: Make sure you have the latest version of node.js and npm installed.
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY: If you do, this is most likely a problem with the bufferutil package,
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY: not with npm itself.
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY: Tell the author that this fails on your system:
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY:     node-gyp rebuild
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY: You can get information on how to open an issue for this project with:
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm bugs bufferutil
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY: Or if that isn't available, you can get their info via:
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm owner ls bufferutil
+1104 verbose optional SKIPPING OPTIONAL DEPENDENCY: There is likely additional logging output above.
+1105 warn optional SKIPPING OPTIONAL DEPENDENCY: bufferutil@1.2.1 (node_modules/bufferutil):
+1106 warn optional SKIPPING OPTIONAL DEPENDENCY: bufferutil@1.2.1 install: `node-gyp rebuild`
+1106 warn optional SKIPPING OPTIONAL DEPENDENCY: Exit status -11
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY:
+1107 verbose optional Failed at the bufferutil@1.2.1 install script 'node-gyp rebuild'.
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY: Make sure you have the latest version of node.js and npm installed.
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY: If you do, this is most likely a problem with the bufferutil package,
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY: not with npm itself.
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY: Tell the author that this fails on your system:
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY:     node-gyp rebuild
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY: You can get information on how to open an issue for this project with:
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm bugs bufferutil
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY: Or if that isn't available, you can get their info via:
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm owner ls bufferutil
+1107 verbose optional SKIPPING OPTIONAL DEPENDENCY: There is likely additional logging output above.
+1108 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 (node_modules/utf-8-validate):
+1109 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 install: `node-gyp rebuild`
+1109 warn optional SKIPPING OPTIONAL DEPENDENCY: spawn sh EAGAIN
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY:
+1110 verbose optional Failed at the utf-8-validate@1.2.2 install script 'node-gyp rebuild'.
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY: Make sure you have the latest version of node.js and npm installed.
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY: If you do, this is most likely a problem with the utf-8-validate package,
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY: not with npm itself.
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY: Tell the author that this fails on your system:
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY:     node-gyp rebuild
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY: You can get information on how to open an issue for this project with:
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm bugs utf-8-validate
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY: Or if that isn't available, you can get their info via:
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm owner ls utf-8-validate
+1110 verbose optional SKIPPING OPTIONAL DEPENDENCY: There is likely additional logging output above.
+1111 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 (node_modules/utf-8-validate):
+1112 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 install: `node-gyp rebuild`
+1112 warn optional SKIPPING OPTIONAL DEPENDENCY: Exit status -11
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY:
+1113 verbose optional Failed at the utf-8-validate@1.2.2 install script 'node-gyp rebuild'.
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY: Make sure you have the latest version of node.js and npm installed.
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY: If you do, this is most likely a problem with the utf-8-validate package,
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY: not with npm itself.
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY: Tell the author that this fails on your system:
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY:     node-gyp rebuild
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY: You can get information on how to open an issue for this project with:
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm bugs utf-8-validate
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY: Or if that isn't available, you can get their info via:
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm owner ls utf-8-validate
+1113 verbose optional SKIPPING OPTIONAL DEPENDENCY: There is likely additional logging output above.
+1114 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 (node_modules/utf-8-validate):
+1115 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 install: `node-gyp rebuild`
+1115 warn optional SKIPPING OPTIONAL DEPENDENCY: spawn sh EAGAIN
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY:
+1116 verbose optional Failed at the utf-8-validate@1.2.2 install script 'node-gyp rebuild'.
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY: Make sure you have the latest version of node.js and npm installed.
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY: If you do, this is most likely a problem with the utf-8-validate package,
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY: not with npm itself.
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY: Tell the author that this fails on your system:
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY:     node-gyp rebuild
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY: You can get information on how to open an issue for this project with:
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm bugs utf-8-validate
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY: Or if that isn't available, you can get their info via:
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm owner ls utf-8-validate
+1116 verbose optional SKIPPING OPTIONAL DEPENDENCY: There is likely additional logging output above.
+1117 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 (node_modules/utf-8-validate):
+1118 warn optional SKIPPING OPTIONAL DEPENDENCY: utf-8-validate@1.2.2 install: `node-gyp rebuild`
+1118 warn optional SKIPPING OPTIONAL DEPENDENCY: Exit status -11
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY:
+1119 verbose optional Failed at the utf-8-validate@1.2.2 install script 'node-gyp rebuild'.
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY: Make sure you have the latest version of node.js and npm installed.
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY: If you do, this is most likely a problem with the utf-8-validate package,
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY: not with npm itself.
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY: Tell the author that this fails on your system:
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY:     node-gyp rebuild
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY: You can get information on how to open an issue for this project with:
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm bugs utf-8-validate
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY: Or if that isn't available, you can get their info via:
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY:     npm owner ls utf-8-validate
+1119 verbose optional SKIPPING OPTIONAL DEPENDENCY: There is likely additional logging output above.
+1120 verbose stack Error: Callback called more than once.
+1120 verbose stack     at errorHandler (/usr/lib/node_modules/npm/lib/utils/error-handler.js:112:16)
+1120 verbose stack     at /usr/lib/node_modules/npm/lib/install.js:312:7
+1120 verbose stack     at LOOP (/usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:7:26)
+1120 verbose stack     at /usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+1120 verbose stack     at /usr/lib/node_modules/npm/lib/install/and-ignore-errors.js:7:15
+1120 verbose stack     at Function.ls.fromTree (/usr/lib/node_modules/npm/lib/ls.js:112:3)
+1120 verbose stack     at /usr/lib/node_modules/npm/lib/install.js:707:8
+1120 verbose stack     at /usr/lib/node_modules/npm/node_modules/iferr/index.js:13:50
+1120 verbose stack     at /usr/lib/node_modules/npm/lib/install/deps.js:175:5
+1120 verbose stack     at LOOP (/usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:7:26)
+1121 verbose cwd /home/gbauktio/public_html/socket
+1122 error Linux 2.6.32-896.16.1.lve1.4.49.el6.x86_64
+1123 error argv "/usr/bin/node" "/usr/bin/npm" "install" "redis" "--save"
+1124 error node v6.17.1
+1125 error npm  v3.10.10
+1126 error Callback called more than once.
+1127 error If you need help, you may report this error at:
+1127 error     <https://github.com/npm/npm/issues>
+1128 verbose exit [ 1, true ]
