@@ -13,17 +13,7 @@ app.get('/app', function(req, res){
 io.on('connection', function (socket) {
   //io.emit('message', 'hello world');
   console.log("hello world");
-//   var redisClient = redis.createClient();
-//   redisClient.subscribe('message');
- 
-//   redisClient.on("message", function(channel, message) {
-//     console.log("mew message in queue "+ message + "channel");
-//     socket.emit(channel, message);
-//   });
- 
-//   socket.on('disconnect', function() {
-//     redisClient.quit();
-//   });
+
 
  socket.on('change_price', function(data){
      console.log('hello');
