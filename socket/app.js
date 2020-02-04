@@ -11,7 +11,6 @@ app.get('/app', function(req, res){
 });
 
 io.on('connection', function (socket) {
-  //io.emit('message', 'hello world');
   console.log("hello world");
 
 
