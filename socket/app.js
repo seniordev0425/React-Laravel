@@ -16,6 +16,7 @@ io.on('connection', function (socket) {
 
  socket.on('change_price', function(data){
      console.log('hello');
+	 
     var tmp = data.split(" ");
      
     console.log(tmp[0] + ' ' + tmp[1] + ' ' + tmp[2]);
